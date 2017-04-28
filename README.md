@@ -13,6 +13,7 @@ dependencies {
 }
 ```
 ###### Copy fonts to assets folder `assets/fonts`
+ minSdkVersion 19
 
 ###### example xml file
 ````Groovy
